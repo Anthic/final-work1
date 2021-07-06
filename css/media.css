@@ -1,0 +1,593 @@
+@media(min-width:1026px) and (max-width:1441px){
+    .owl-next span {
+        padding: 2px 16px;
+        font-size: 25px;
+        background-color: #00CCE1;
+        color: #FFFFFF;
+        border-radius: 5px;
+        position: absolute;
+        top: 55%;
+        left: 105%;
+        transform: translate(-108%, -89%);
+        transition: 0.4s all ease-in-out;
+    }
+    
+
+.owl-prev span {
+    padding: 2px 16px;
+    font-size: 25px;
+    background-color: #00CCE1;
+    color: #FFFFFF;
+    /* border-radius: 5px; */
+    position: absolute;
+    top: 49%;
+    right: 99%;
+    transition: 0.4s all ease-in-out;
+    transform: translate(-102%, -45%);
+}
+}
+@media(min-width:770px) and (max-width:1025px){
+    .logo {
+        margin-top: 4px;
+        width: 44%;
+    }
+    .icon_one {
+        font-size: 24px;
+        margin-right: 21px;
+        color: #F69165;
+    }
+    .icon_text h5 {
+        font-size: 19px;
+        font-weight: 700;
+    }
+    .icon_text p {
+        margin: 0;
+        font-size: 15px;
+        padding: 0;
+        font-weight: 600;
+        color: #a0a0a0;
+    }
+    ul.appointment {
+        font-size: 14px;
+        margin-left: 137px;
+    }
+    .owl-next span {
+        top: 55%;
+        left: 105%;
+
+    }
+    .owl-prev span {
+        top: 49%;
+        right: 96%;
+        
+    }
+    .footer-icon ul li p {
+        color: #b4b4b4;
+        font-size: 11px;
+        margin: 0;
+    }
+    .post ul li h5 {
+        font-size: 11px;
+        margin-bottom: 0px; 
+        cursor: pointer;
+        color: #b4b4b4;
+    }
+    .post ul li p {
+        font-size: 13px;
+    }
+    .follow-link {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    
+}
+@media(min-width:426px) and (max-width:769px){
+    .logo {
+        width: 78%;
+    }
+    .icon_one {
+        font-size: 25px;
+        margin-right: 3px;
+    }
+
+    .icon_text {
+        margin-right: 5px;
+        display: none;
+    }
+    .icon_one {
+        font-size: 31px;
+        margin-right: 16px;
+    }
+    .sell {
+        text-align: center;
+        margin-left: 154px;
+    }
+    .owl-next span {
+ 
+        top: 50%;
+        left: 106%;
+      
+    }
+    .owl-prev span {
+
+        top: 47%;
+        right: 94%;
+     
+    }
+    ul.appointment {
+        font-size: 16px;
+        padding: 17px 37px;
+        margin: 18px 203px;
+    }
+    .navbar-light .navbar-toggler {
+        margin-top: 8px;
+        margin-left: 604px;
+    }
+    .navbar {
+        padding-top: 7px;
+        padding-bottom: 1rem;
+    }
+    .carousel h3 {
+        margin-top: 175px;
+        width: 273px;
+        padding: 5px 36px;
+        margin-left: 56px;
+    }
+    .carousel h1 {
+        font-size: 37px;
+        width: 422px;
+        padding: 8px 26px;
+    }
+    .carousel p {
+        margin-bottom: 20px;
+        width: 119%;
+    }
+    .btn-learn {
+        margin-left: 35px;
+    }
+    .plus h1 {
+        font-size: 31px;
+
+    }
+    .plus p {
+        font-size: 13px;
+    }
+    .omg h5 {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .image1 {
+        margin-top: 180px;
+    }
+    .read {
+       
+        padding: 14px 11px;
+        transition: 0.5s all ease-in-out;
+    }
+    .uper h5 {
+        transition: 0.5s all ease-in-out;
+        font-size: 18px;
+        font-weight: 700;
+    }
+    .uper img {
+        margin-right: 10px;
+    }
+    .plan h3 {
+      
+        font-size: 31px;
+        font-weight: 700;
+      
+    }
+    .plan h2 {
+  
+        font-size: 37px;
+    }
+    .plan span {
+        font-size: 17px;
+    }
+    .btn-sing {
+          font-size: 11px;
+    }
+    .price ul {
+        font-size: 15px;
+    
+    }
+    .footer-icon ul li p {
+   
+        font-size: 11px;
+      
+    }
+    .footer-icon ul li {
+        font-size: 43px;
+        width: 85%;
+    }
+    .post ul li h5 {
+        font-size: 11px;
+         margin-bottom: -1px;
+        cursor: pointer;
+        color: #b4b4b4;
+    }
+    .post ul li p {
+  
+        font-size: 13px;
+    }
+    .post ul li img {
+
+        margin-bottom: 30px;
+    }
+    .recent-post {
+        margin-top: 45px;
+    }
+    .news-letter {
+        margin-top: 45px;
+    }
+    .news p {
+        color: #777;
+        font-weight: 500;
+        margin-top: 39px;
+    }
+    .news form input[type="email"] {
+        width: 50%;
+        margin-left: -2px;
+    }
+    .news form input[type="submit"] {
+        width: 38%;
+        margin-left: 10px;
+        font-size: 14px;
+    }
+    .follow-link {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+    }
+    .follow-link h3 {
+        font-size: 26px;
+    }
+}
+
+
+
+
+
+
+@media(min-width:377px) and (max-width:426px){
+    .call_us {
+        display: block;
+       
+    }
+    .call_one {
+        margin-top: 17px;
+    
+        width: 51%;
+    }
+    .icon_one {
+        font-size: 31px;
+        margin-right: 25px;
+     
+    }
+    .icon_text h5 {
+        font-size: 21px;
+  
+    }
+    .icon_text p {
+   
+        font-size: 15px;
+    }
+    .logo {
+        margin-top: 4px;
+        width: 46%;
+    }
+    ul.appointment {
+     
+        font-size: 16px;
+        padding: 17px 37px;
+        margin: 15px 29px;
+        
+    
+    }
+    .navbar-light .navbar-toggler {
+   
+        margin-top: 8px;
+        margin-left: 303px;
+    
+    }
+    .navbar {
+        padding-top: 7px;
+        padding-bottom: 1rem;
+    }
+    .owl-next span {
+
+        display: none;
+    }
+    .carousel h3 {
+        margin-top: 180px;
+        padding: 5px 35px;
+        margin-left: 50px;
+    }
+    .carousel h1 {
+        font-size: 33px;
+        width: 357px;
+        padding: 9px 17px;
+    }
+    .carousel p {
+        margin-bottom: 25px;
+        text-align: center;
+        margin-top: 21px;
+    }
+    .btn-learn {
+        margin-left: 32px;
+    }
+    .plus {
+        margin-top: 36px;
+    }
+    .plus h1 {
+        font-size: 33px;
+    }
+    .omg {
+        margin-bottom: 36px;
+    }
+    .cool {
+        margin-top: 0px;
+    }
+    .doe {
+        margin-bottom: 21px;
+    }
+    .frank {
+        margin-top: 0px;
+    }
+    .hello1 {
+        margin-top: 48px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+@media(min-width:322px) and (max-width:376px){
+    .call_us {
+        display: block;
+       
+    }
+    .call_one {
+        margin-top: 17px;
+    
+        width: 51%;
+    }
+    .icon_one {
+        font-size: 31px;
+        margin-right: 25px;
+     
+    }
+    .icon_text h5 {
+        font-size: 21px;
+  
+    }
+    .icon_text p {
+   
+        font-size: 15px;
+    }
+    .logo {
+        margin-top: 4px;
+        width: 46%;
+    }
+    ul.appointment {
+     
+        font-size: 16px;
+        padding: 17px 37px;
+        margin: 15px 29px;
+        
+    
+    }
+    .navbar-light .navbar-toggler {
+   
+        margin-top: 8px;
+        margin-left: 207px;
+    
+    }
+    .navbar {
+        padding-top: 7px;
+        padding-bottom: 1rem;
+    }
+    .owl-next span {
+
+        display: none;
+    }
+    .carousel h3 {
+        margin-top: 180px;
+        padding: 5px 35px;
+        margin-left: 50px;
+    }
+    .carousel h1 {
+        font-size: 33px;
+        width: 357px;
+        padding: 9px 17px;
+    }
+    .carousel p {
+        margin-bottom: 25px;
+        text-align: center;
+        margin-top: 21px;
+    }
+    .btn-learn {
+        margin-left: 32px;
+    }
+    .plus {
+        margin-top: 36px;
+    }
+    .plus h1 {
+        font-size: 33px;
+    }
+    .omg {
+        margin-bottom: 36px;
+    }
+    .cool {
+        margin-top: 0px;
+    }
+    .doe {
+        margin-bottom: 21px;
+    }
+    .frank {
+        margin-top: 0px;
+    }
+    .footer-icon ul li p {
+        font-size: 13px;
+    }
+    .footer-icon ul li {
+        font-size: 41px;
+         width: 79%; 
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:0px) and (max-width:321px){
+    .icon_text {
+       display: none;
+    }
+    .icon_one {
+        font-size: 29px;
+     margin-right: 0px;
+    
+    }
+    .logo img {
+        width: 58%;
+    }
+    .logo {
+      
+        text-align: center;
+    }
+    .call_us {
+
+        margin-top: 14px;
+    }
+    ul.appointment {
+        font-size: 14px;
+        padding: 17px 19px;
+     margin-left: 0px;
+     margin: 15px 30px;
+    }
+    .navbar-light .navbar-toggler {
+   
+        margin-top: 8px;
+        margin-left: 207px;
+    
+    }
+    .navbar {
+        padding-top: 7px;
+        padding-bottom: 1rem;
+    }
+    .owl-next span {
+
+        display: none;
+    }
+    .owl-prev span {
+
+        display: none;
+    }
+    .carousel h3 {
+        margin-top: 138px;
+        width: 210px;
+        padding: 3px 11px;
+    
+    }
+    .carousel h1 {
+        font-size: 26px;
+        width: 278px;
+        padding: 9px 9px;
+        font-weight: 700;
+    }
+    .carousel p {
+        font-size: 14px;
+    }
+    .btn-learn {
+        font-size: 16px;
+        padding: 7px 11px;
+         margin-right: 0px;
+         margin-left: 13px;
+    }
+    .btn-book {
+        font-size: 15px;
+        border-radius: 0px;
+        padding: 9px 18px;
+        margin-left: 13px;
+    }
+    .image1 {
+        margin-bottom: 42px;
+    }
+    .plus h1 {
+        font-size: 27px;
+    }
+    .plus p {
+        font-size: 14px;
+    }
+    .omg {
+        margin-bottom: 30px;
+    }
+    .mt-5 {
+        margin-top: 0rem!important
+    }
+    .items {
+        margin-bottom: 25px;
+    }
+    .mt-4 {
+        margin-top: 0rem!important;
+    }
+    .our {
+        margin-bottom: 45px;
+    }
+    .read {
+        border: 3px solid #dedede;
+        padding: 21px 17px;
+        transition: 0.5s all ease-in-out;
+        margin-bottom: 34px;
+    }
+    .footer-icon ul li p {
+       
+        font-size: 11px;
+       
+    }
+    .footer-icon ul li {
+        color: #00cce1;
+        font-size: 40px;
+        width: 85%;
+    }
+    .post ul li h5 {
+        font-size: 12px;
+        margin-bottom: 2px;
+    }
+    .post ul li p {
+        cursor: pointer;
+        color: #777;
+        font-size: 12px;
+    }
+    .follow-link h3 {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    
+
+        
+}
